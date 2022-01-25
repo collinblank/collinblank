@@ -9,7 +9,10 @@
 - 💬 Ask me about: **NOTHING! Let me pick your brain 🧠.**
 - 📫 How to reach me: **cablank25@gmail.com**
 - ⚡ Fun fact: **I'm enrolled in the Software Development program at NCSU and I'm also working on learning new things on my own!😤**
-- My Portfolio: 
+
+
+
+💻 My Website Portfolio: ![50%](https://progress-bar.dev/50) **Loading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
