@@ -1,4 +1,4 @@
- <### align = "center"> Why, Hello there. 👋 My name is Collin! </p>
+ <h3 align = "center"> Why, Hello there. 👋 My name is Collin! </h3>
 
 - 🔭 I’m currently working on: My online Portfolios! Mainly Front-End Development Skills.
 - 🌱 I’m currently learning: javascript
