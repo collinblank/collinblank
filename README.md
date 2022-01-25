@@ -1,6 +1,6 @@
  <h3 align = "center"> Why, Hello there. 👋 My name is Collin! </h3>
 <a class="twitter-follow-button"
-  href="https://twitter.com/Drawin_a_Blank_">
+  href="https://twitter.com/Drawin_a_Blank_" data-size="large">
 Follow @Drawin_a_Blank_</a>
 
 - 🔭 I’m currently working on: My online Portfolios! Mainly Front-End Development Skills.
