@@ -8,3 +8,12 @@
 - 📫 How to reach me: cablank25@gmail.com
 - ⚡ Fun fact: I'm enrolled in the Software Development program at NCSU and I'm also working on learning new things on my own!😤
 
+<!-- 
+Personal Profiles: 
+
+Creative Profiles: 
+Creative Explanation:
+
+Website Portfolio (LOADING)
+
+-->
