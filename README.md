@@ -1,4 +1,4 @@
-### Why, Hello there. 👋 My name is Collin!
+ <### align = "center"> Why, Hello there. 👋 My name is Collin! </p>
 
 - 🔭 I’m currently working on: My online Portfolios! Mainly Front-End Development Skills.
 - 🌱 I’m currently learning: javascript
