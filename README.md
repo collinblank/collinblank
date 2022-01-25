@@ -1,5 +1,7 @@
  <h3 align = "center"> Why, Hello there. 👋 My name is Collin! </h3>
- ![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Drawin_a_Blank_.svg?style=social&label=Follow%20%40Drawin_a_Blank_)](https://twitter.com/Drawin_a_Blank_)
+<a class="twitter-follow-button"
+  href="https://twitter.com/Drawin_a_Blank_">
+Follow @Drawin_a_Blank_</a>
 
 - 🔭 I’m currently working on: My online Portfolios! Mainly Front-End Development Skills.
 - 🌱 I’m currently learning: javascript
