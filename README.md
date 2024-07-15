@@ -19,5 +19,3 @@
 <a href="https://twitter.com/Drawin_a_Blank_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Drawin_a_Blank_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/collin-blank/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="collinblank" height="30" width="40" /></a>
 </p>
-
-<p><img align = left src = "https://github-readme-stats.vercel.app/api?username=collinblank&hide=stars,issues,contribs" "alt=collinblank" /></p>
