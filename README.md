@@ -2,13 +2,13 @@
 
 <p align="left"> <a href="https://twitter.com/Drawin_a_Blank_" target="blank"><img src="https://img.shields.io/twitter/follow/Drawin_a_Blank_?logo=twitter&style=for-the-badge" alt="Drawin_a_Blank_" /></a> </p>
 
-- 🔭 I’m currently working on: **My online Portfolios! Mainly Front-End Development Skills.**
-- 🌱 I’m currently learning: **javascript**
-- 👯 I’m looking to collaborate on: **anything that helps me progress in my education.**
-- 🤔 I’m looking for help with: **Best Practices for Newbies.**
-- 💬 Ask me about: **NOTHING! Let me pick your brain 🧠.**
+- 🔭 I’m currently working on: **Creating My First App and a Portfolio on AWS**
+- 🌱 I’m currently learning: **JS/Python**
+- 👯 I’m looking to collaborate on: **JavaScript Apps**
+- 🤔 I’m looking for help with: **Everything! I always want to learn more.**
+- 💬 Ask me about: **NOTHING! Let me pick your brain 🧠. Or ask me about my MLB API First Five Pitching Scraper**
 - 📫 How to reach me: **cablank25@gmail.com**
-- ⚡ Fun fact: **I'm enrolled in the Software Development program at NCSU and I'm also working on learning new things on my own!😤**
+- ⚡ Fun fact: **I'm always trying to learn more langauges!**
 
 
 
@@ -20,14 +20,4 @@
 <a href="https://www.linkedin.com/in/collin-blank/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="collinblank" height="30" width="40" /></a>
 </p>
 
-
-<!-- <h3 align "left">Creative Profiles: </h3>
-
-Part Owner of **Blank Bros Media**.  Making Social Content with my brother in hopes of providing a mental vacation and adding laughter to your day. 
-
-<a href="https://twitter.com/BlankBrosMedia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="BlankBrosMedia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCs945CoGFPuO_Bljp3qiKIw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Blank Bros Media" height="30" width="40" /></a>
-<a href="https://twitter.com/BlankBrosGaming" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="BlankBrosGaming" height="30" width="40" /></a> -->
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=collinblank&show_icons=true&locale=en&layout=compact&hide=css&langs_count=10" alt="collinblank" /></p> -->
-<p><img align = left src = "https://github-readme-stats.vercel.app/api?username=collinblank&hide=stars,prs,issues,contribs" "alt=collinblank" /></p>
+<p><img align = left src = "https://github-readme-stats.vercel.app/api?username=collinblank&hide=stars,issues,contribs" "alt=collinblank" /></p>
